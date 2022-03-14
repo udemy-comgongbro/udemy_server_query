@@ -1,4 +1,5 @@
 # 게시물 리스트 조회 쿼리
+## 검색 키워드 timestampdiff, case
        SELECT p.postIdx as postIdx,
               u.userIdx as userIdx,
               u.nickName as nickName,
